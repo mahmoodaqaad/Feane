@@ -800,6 +800,11 @@ footer .cont .box .icon-socil .instagram:hover {
     background-color: #e1306c;
 }
 
+span {
+    color: var(--main-color);
+    font-size: 1.2rem;
+}
+
 /* End footer  */
 
 /* statr media  */
@@ -896,7 +901,7 @@ footer .cont .box .icon-socil .instagram:hover {
     .contact .boxs form {
         width: 100%;
     }
-    
+
     .contact .boxs {
         flex-direction: column;
         gap: 9rem;
